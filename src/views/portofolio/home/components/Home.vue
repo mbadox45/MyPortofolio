@@ -86,7 +86,7 @@
             <div :class="`py-5 px-6 transition-transform ${menuSection} w-full z-5`">
                 <div class="bg-transparent py-3 px-4 md:px-5 border-round-3xl flex justify-content-between align-items-center">
                     <div class="flex flex-row align-items-center gap-3">
-                        <img src="x(2).png" alt="Mbadox45" class="w-3rem border-circle">
+                        <img src="/x(2).png" alt="Mbadox45" class="w-3rem border-circle">
                         <span class="text-lg font-medium">Mbadox 45</span>
                     </div>
                     <button class="block md:hidden p-link layout-topbar-menu-button layout-topbar-button">
@@ -103,7 +103,7 @@
             <div :class="`transition-transform duration-1000 ${menuSection2} left-0 z-5`">
                 <div class="bg-yellow-500 flex flex-column justify-content-start gap-2 align-items-center py-3 px-1 h-screen">
                     <div class="text-center flex flex-row align-items-center">
-                        <img src="x(2).png" alt="Mbadox45" class="w-3rem border-circle">
+                        <img src="/x(2).png" alt="Mbadox45" class="w-3rem border-circle">
                     </div>
                     <div class="text-center">
                         <Divider/>
@@ -122,7 +122,7 @@
                     <span class="transition-all transition-duration-500 transition-ease-in fadeinleft animation-duration-1000 animation-ease-in">Website ini adalah portofolio yang dibuat untuk memperkenalkan biografi saya sebagai Fullstack Developer</span>
                 </div>
                 <div class="w-full hidden justify-content-end md:flex">
-                    <img src="quotes.png" alt="My Picture" class="w-8rem md:w-30rem transition-all transition-duration-1000 transition-ease-in fadeinleft animation-duration-1000 animation-ease-in">
+                    <img src="/quotes.png" alt="My Picture" class="w-8rem md:w-30rem transition-all transition-duration-1000 transition-ease-in fadeinleft animation-duration-1000 animation-ease-in">
                 </div>
             </div>
         </div>
